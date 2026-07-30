@@ -28,27 +28,24 @@ A Java application built using **Spring Core** that demonstrates Dependency Inje
 
 ## Project Structure
 
-```
+```text
 Shipment-Management-System
 │
-├── src
-│   ├── ShipmentApp.java
-│   ├── ShipmentConfig.java
-│   ├── OrderDispatch.java
-│   ├── IShipment.java
-│   ├── DTDC.java
-│   ├── Delhivery.java
-│   ├── BlueDart.java
-│   ├── FedexDomestic.java
-│   ├── FedexInternational.java
-│
-├── resources
-│   ├── Shipment.properties
-│   ├── DomesticFedex.properties
-│   └── InternationalFedex.properties
-│
-├── pom.xml
-└── README.md
+├── Bluedart.java
+├── DTDC.java
+├── Delhivery.java
+├── DomesticFedex.properties
+├── IShipment.java
+├── InternationalFedex.properties
+├── OrderDispatch.java
+├── README.md
+├── ShipmentApp.java
+├── Shipment.properties
+├── ShipmentConfig.java
+├── application-flow.png
+├── fedexDomestic.java
+├── fedexInternational.java
+└── package-info.java
 ```
 
 ---
@@ -111,13 +108,9 @@ verifyShipment()
 Validation Result
 ```
 
-> You can replace the above diagram with your generated application flow image.
+## Application Flow
 
-Example:
-
-```markdown
 ![Application Flow](application-flow.png)
-```
 
 ---
 
