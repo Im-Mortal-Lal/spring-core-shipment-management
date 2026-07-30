@@ -116,7 +116,7 @@ Validation Result
 Example:
 
 ```markdown
-![Application Flow](images/application-flow.png)
+![Application Flow](application-flow.png)
 ```
 
 ---
@@ -126,7 +126,7 @@ Example:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/shipment-management-system-spring-core.git
+git clone https://github.com/Im-Mortal-Lal/spring-core-shipment-management.git
 ```
 
 2. Open the project in Eclipse.
@@ -169,4 +169,4 @@ This project helped me understand:
 
 **Koturu Lalit**
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Im-Mortal-Lal
